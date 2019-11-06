@@ -1,5 +1,5 @@
 # Code Review
 
-To write high quality code
+4 High quality code
 
 [Google Engineering Practices](https://github.com/google/eng-practices)
